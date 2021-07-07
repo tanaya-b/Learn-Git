@@ -1,4 +1,4 @@
-# Learn-Git
+# Learn-Git - On Branch 2
 
 This is a ReadMe file. It is used to introduce and summarize what your repo does, or link to certain points in repo.
 
